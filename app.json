@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PodiumApp",
+    "slug": "PodiumApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PodiumApp"
+}
